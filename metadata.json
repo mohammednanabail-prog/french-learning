@@ -1,0 +1,8 @@
+{
+  "name": "تعلم الفرنسية - منصة تفاعلية للناطقين بالعربية",
+  "description": "منصة تفاعلية لتعلم اللغة الفرنسية للناطقين بالعربية مع تفصيل الكلمات التفاعلي، النطق الصوتي، والتحليل اللغوي بالذكاء الاصطناعي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
